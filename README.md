@@ -20,8 +20,8 @@ Currently working at **Finstein Advisory LLP**, where I focus on:
 
 ## 📫 Contact Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/veeramanikandanr)
-- 📧 Email: `veeramanikandanr48@gmail.com`  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/veeramanikandan-fin)
+- 📧 Email: `veeramanikandan-fin48@gmail.com`  
 - 🌐 [Portfolio](https://veeramanikandan.vercel.app/)
 
 ---
@@ -78,34 +78,34 @@ Currently working at **Finstein Advisory LLP**, where I focus on:
 ## 🔥 GitHub Stats and Streak
 
 <p align="center">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Veeramanikandanr48&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veeramanikandanr48&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=veeramanikandan-fin48&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=veeramanikandan-fin48&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-    <a href="https://github.com/Veeramanikandanr48/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Veeramanikandanr48&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/veeramanikandan-fin/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=veeramanikandan-fin48&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 
     
 ## 📊 My Coding Activity
 
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Veeramanikandanr48&bg_color=d1e5ff&color=624c9e&line=4c9e65&point=c41717&area=true&hide_border=true" alt="Coding Activity Graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=veeramanikandan-fin48&bg_color=d1e5ff&color=624c9e&line=4c9e65&point=c41717&area=true&hide_border=true" alt="Coding Activity Graph">
 </p>
 
 ## 🌐 Connect with Me
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/veeramanikandanr"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href="https://www.linkedin.com/in/veeramanikandan-fin"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
     <a href="https://twitter.com/veera_r_tech"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
     <a href="https://www.instagram.com/veera_r_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-    <a href="https://www.youtube.com/channel/@veeramanikandanR"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+    <a href="https://www.youtube.com/channel/@veeramanikandan-fin"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
 ## ❤ Views and Followers
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Veeramanikandanr48" alt="Profile Views">
-    <img src="https://img.shields.io/github/followers/Veeramanikandanr48?label=Followers&style=social" alt="GitHub Followers">
+    <img src="https://komarev.com/ghpvc/?username=veeramanikandan-fin48" alt="Profile Views">
+    <img src="https://img.shields.io/github/followers/veeramanikandan-fin48?label=Followers&style=social" alt="GitHub Followers">
 </p>
