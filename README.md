@@ -64,9 +64,9 @@ This personal portfolio showcasing my work and skills.
 
 ## 📫 Contact Me
 
-- 🔗 [LinkedIn](https://linkedin.com/in/veerax)  
-- 📧 Email: `veera.dev@example.com`  
-- 🌐 [Portfolio](https://yourdomain.dev)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/veeramanikandanr)
+- 📧 Email: `veeramanikandanr48@gmail.com`  
+- 🌐 [Portfolio](https://veeramanikandan.vercel.app/)
 
 ---
 
